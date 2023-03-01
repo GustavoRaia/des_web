@@ -1,0 +1,19 @@
+# Python
+referencia: https://www.python.org/
+relação: Python é uma linguagem de programação que permite que você trabalhe com mais rapidez e integre seus sistemas com mais eficiência.
+
+# Git
+referencia: https://git-scm.com/ 
+relação: O Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
+
+# VScode
+referencia: https://code.visualstudio.com/learn
+relação: O Visual Studio Code é um editor de codificação gratuito que ajuda você a começar a codificar rapidamente. Use-o para codificar em qualquer linguagem de programação, sem trocar de editor.
+
+# Sqlitebrowser
+referencia: https://sqlitebrowser.org/   
+relação: Um produto comercial que incorpora bancos de dados SQlite com algumas extensoes adicionais para lidar com dados compactados e binarios
+
+# Navegadores
+referencia: https://www.google.com.br/
+relação: Nossa missão é organizar as informações do mundo para que sejam universalmente acessíveis e úteis para todos.
