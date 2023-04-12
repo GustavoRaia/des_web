@@ -1,0 +1,30 @@
+div {
+    background-color: green;
+    height: 2em;
+    width: 15em;
+    margin: auto;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+#static {
+    position: static;;
+}
+
+#relative {
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+#absolute {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+#fixed {
+    position: fixed;
+    top: 30px;
+    left: 30px;
+}
