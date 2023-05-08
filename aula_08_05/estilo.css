@@ -1,0 +1,36 @@
+div{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 1em;
+    padding-left: 0.5em;
+    background-color: yellow;
+}
+
+@media screen and (max-width: 320px){
+    div{
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 1em;
+        padding-left: 0.5em;
+        background-color: red;
+    }
+}
+@media  screen and (min-width: 768px){
+    div{
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 1em;
+        padding-left: 0.5em;
+        background-color: green;
+    }
+}
+@media  screen and (min-width: 1024px){
+    div{
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 1em;
+        padding-left: 0.5em;
+        background-color: blue;
+    }
+}
